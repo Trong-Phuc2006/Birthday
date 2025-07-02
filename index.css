@@ -35,7 +35,7 @@
       /* change to your image */
       background-size: contain;
       background-repeat: no-repeat;
-      opacity: 0.95;
+      opacity: 1;
       pointer-events: none;
       /* ensures it doesn’t block clicks */
 
